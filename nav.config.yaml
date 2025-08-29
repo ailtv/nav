@@ -49,3 +49,10 @@ mailConfig:
 
 # 自有部署
 XFAPIPassword: ''
+
+# web 网页配置
+web:
+  title: '发现导航'
+  login: true
+  # 在这里添加您自定义的 token
+  token: 'aaa2044'
